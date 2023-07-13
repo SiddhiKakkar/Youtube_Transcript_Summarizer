@@ -17,4 +17,4 @@ Transformers ,
 Tkinter(GUI) ,
 Datetime ,
 MBartForConditionalGeneration ,
-PIL.
+PIL .
