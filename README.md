@@ -11,10 +11,10 @@ This project aims to offer users a convenient solution for obtaining clean and c
 4. Audio output using gTTS.
 
 **Popular Libraries used : -**
-Hugging-face
-YoutubeTranscriptapi
-Transformers
-Tkinter(GUI)
-Datetime
-MBartForConditionalGeneration
-PIL
+Hugging-face ,
+YoutubeTranscriptapi ,
+Transformers ,
+Tkinter(GUI) ,
+Datetime ,
+MBartForConditionalGeneration ,
+PIL.
